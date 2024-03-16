@@ -1,3 +1,25 @@
+![image](https://github.com/JH-Ko76/React_ExchangeRate/assets/72744580/3860591f-52ac-4596-a332-573db12987a3)
+
+React로 작성된 환율 조회/계산 사이트 토이프로젝트 입니다.
+
+공공데이터 포털을 통해 API키를 사전에 발급받아야 사용되는 데이터를 사용할 수 있습니다.
+
+⌛ 기간 : 2024.02.26 ~ 2024.03.08
+
+🏃‍♂️ 구현 기능
+1. 공공데이터 사이트(한국수출입은행 환율 정보)에서 API를 사용해 당일 총 23개국 환율정보 조회 기능 
+2. 모달창 형식으로 각 국가 기준으로 환율계산기 기능을 구현
+3. 최고가/최저가 조회 기능, 주별 데이터 조회 버튼 기능 구현
+
+⚙ 기술 스택
+- React, React Hooks
+- JavaScript, BootStrap
+- Git,Github
+
+자세한 코드 설명은 블로그를 참고해주세요.
+Project Review : <a href="https://velog.io/@chicken1324/React.js-%ED%99%98%EC%9C%A8-%EA%B3%84%EC%82%B0-%EC%82%AC%EC%9D%B4%ED%8A%B8-%ED%86%A0%EC%9D%B4%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8"> Velog </a>
+
+==============================================================================================================
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
