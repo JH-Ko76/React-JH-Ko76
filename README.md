@@ -20,7 +20,6 @@ React로 작성된 환율 조회/계산 사이트 토이프로젝트 입니다.
 
 Project Review : <a href="https://velog.io/@chicken1324/React.js-%ED%99%98%EC%9C%A8-%EA%B3%84%EC%82%B0-%EC%82%AC%EC%9D%B4%ED%8A%B8-%ED%86%A0%EC%9D%B4%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8"> Velog </a>
 
-======================================================================================================================================
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
